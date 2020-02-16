@@ -1,0 +1,5 @@
+{
+  "name": "WS Discovery",
+  "description": "An application that makes possible to see multiple web services",
+  "addons": [ "heroku-postgresql" ]
+}
