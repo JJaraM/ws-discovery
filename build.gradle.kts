@@ -31,9 +31,9 @@ dependencies {
 	//testImplementation("org.springframework.security:spring-security-test")
 }
 
-tasks.withType<Test> {
+/*tasks.withType<Test> {
 	useJUnitPlatform()
-}
+}*/
 
 tasks.withType<KotlinCompile> {
 	kotlinOptions {
