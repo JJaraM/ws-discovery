@@ -31,11 +31,6 @@ dependencies {
 	//testImplementation("org.springframework.security:spring-security-test")
 }
 
-bootJar {
-	baseName = 'gs-spring-boot-docker'
-	version =  '0.1.0'
-}
-
 tasks.withType<Test> {
 	useJUnitPlatform()
 }
