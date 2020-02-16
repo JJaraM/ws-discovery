@@ -1,4 +1,4 @@
-package com.jjara.discovery.handlers
+package com.jjara.discovery
 
 import com.jjara.discovery.beans.Application
 import org.springframework.web.bind.annotation.GetMapping
