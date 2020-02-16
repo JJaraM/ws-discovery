@@ -1,2 +1,2 @@
 # Web Service Discovery
-[![Heroku CI Status](https://jjara-discovery.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/aa18b8bd-8e49-41d7-afa5-ade7207b9459/tests)
+[![Heroku CI Status](https://jjara-discovery.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/21029555-a4e5-4b9b-b6d3-ae6004d3cfb0/tests)
